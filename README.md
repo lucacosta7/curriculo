@@ -1,2 +1,2 @@
-# curr-culo
+# curriculo
 Esse é o projeto do meu currículo
